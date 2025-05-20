@@ -36,6 +36,7 @@ import { SwiperSectionXAxsis } from 'swiper-x-axis';
 | `chipBgColor?` | `string` | Default chip background color |
 | `chipTextColor?` | `string` | Default chip text color |
 
+Use hex codes for all colors to ensure better performance and consistency.
 ## License
 
 MIT
