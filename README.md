@@ -8,6 +8,14 @@ A scrollable, horizontally laid out chip/swiper component with optional icons an
 npm install swiper-x-axis
 ```
 
+# Swiper X Axis
+
+React component for horizontally scrollable category chips with optional arrows and icons.
+
+📦 [View on NPM](https://www.npmjs.com/package/swiper-x-axis)  
+🔗 [Source on GitHub](https://github.com/yourusername/swiper-x-axis)
+
+
 ## Usage
 
 ```tsx

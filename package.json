@@ -1,7 +1,8 @@
 {
   "name": "react-swiper-x-axis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A horizontally scrollable category chip component with optional icons, counts, and hover-based navigation arrows.",
+  "keywords": ["react", "swiper", "horizontal scroll", "chips", "category", "component"],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
