@@ -29,8 +29,8 @@ import { SwiperSectionXAxsis } from 'swiper-x-axis';
 | Prop | Type | Description |
 |------|------|-------------|
 | `items` | `CategoryItem[]` | Array of categories |
-| `handleClick` | `(value: string | number) => void` | Callback on item click |
-| `textSize?` | `number` | Optional scaling factor |
+| `handleClick` | `(value: string) => void` | Callback on item click |
+| `textSize?` | `number` | Optional scaling factor (max value 1)|
 | `activeChipColor?` | `string` | Color for active chip |
 | `activeTextColor?` | `string` | Color for active chip text |
 | `chipBgColor?` | `string` | Default chip background color |
